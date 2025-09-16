@@ -10,12 +10,12 @@
 basic.pause(100)
 basic.clearScreen()
 
-// Area
+// Perimeter
 basic.showString('The perimeter would be:' + (2 * (5 + 3)).toString())
 basic.pause(100)
 basic.clearScreen()
 
-// perimeter
+// Area
 basic.showString('The area would be:' + (5 * 3).toString() + 'cm ^ 2.')
 basic.showIcon(IconNames.Happy)
 basic.pause(100)
