@@ -1,6 +1,6 @@
 /* Copyright (c) 2025 Isaac Ip All rights reserved
  *
- * Created by: Isaac Ip 
+ * Created by: Isaac Ip
  * Created on: Sep 2025
  * This program calculates the area and the perimeter of 5cm by 3cm rectangle.
 */
