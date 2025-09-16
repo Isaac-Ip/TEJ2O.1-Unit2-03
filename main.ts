@@ -1,8 +1,22 @@
-/* Copyright (c) 2020 MTHS All rights reserved
+/* Copyright (c) 2025 Isaac Ip All rights reserved
  *
- * Created by: XXX
- * Created on: Sep 2020
- * This program ...
+ * Created by: Isaac Ip
+ * Created on: Sep 2025
+ * This program calculates the area and the perimeter of 5cm by 3cm rectangle.
 */
 
-basic.showString('Hello, World!')
+// Dimensions
+// basic.showString('A rectangle has dimensions 5 cm & 3 cm')
+basic.pause(100)
+basic.clearScreen()
+
+// Area
+basic.showString('The perimeter would be:' + (2 * (5 + 3)).toString())
+basic.pause(100)
+basic.clearScreen()
+
+// perimeter
+basic.showString('The area would be:' + (5 * 3).toString() + 'cm ^ 2.')
+basic.showIcon(IconNames.Happy)
+basic.pause(100)
+basic.clearScreen()
