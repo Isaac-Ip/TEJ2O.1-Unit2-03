@@ -6,17 +6,17 @@
 */
 
 // Dimensions
-// basic.showString('A rectangle has dimensions 5 cm & 3 cm')
-basic.pause(100)
+basic.showString('A rectangle has dimensions 5 cm & 3 cm.')
+basic.pause(1000)
 basic.clearScreen()
 
 // Perimeter
 basic.showString('The perimeter would be:' + (2 * (5 + 3)).toString() + 'cm.')
-basic.pause(100)
+basic.pause(1000)
 basic.clearScreen()
 
 // Area
 basic.showString('The area would be:' + (5 * 3).toString() + 'cm ^ 2.')
 basic.showIcon(IconNames.Happy)
-basic.pause(100)
+basic.pause(1000)
 basic.clearScreen()
