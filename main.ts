@@ -16,7 +16,7 @@ basic.pause(1000)
 basic.clearScreen()
 
 // Area
-basic.showString('The area would be:' + (5 * 3).toString() + 'cm ^ 2.')
+basic.showString('The area would be:' + (5 * 3).toString() + 'cm^2.')
 basic.showIcon(IconNames.Happy)
 basic.pause(1000)
 basic.clearScreen()
