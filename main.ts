@@ -11,7 +11,7 @@ basic.pause(100)
 basic.clearScreen()
 
 // Perimeter
-basic.showString('The perimeter would be:' + (2 * (5 + 3)).toString())
+basic.showString('The perimeter would be:' + (2 * (5 + 3)).toString() + 'cm.')
 basic.pause(100)
 basic.clearScreen()
 
